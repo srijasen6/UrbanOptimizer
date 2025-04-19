@@ -35,15 +35,9 @@ A comprehensive platform for simulating, visualizing, and optimizing smart city 
   - Renewable energy ratio
 - Correlation analysis between urban systems
   
-graph TD
-    A[User Interface] --> B[Digital Twin]
-    A --> C[Traffic Simulator]
-    A --> D[Energy Grid]
-    B --> E[3D Visualization]
-    C --> F[RL Agent]
-    D --> F
-    F --> G[Metric Tracking]
-    G --> H[Dashboard]
+
+    ![deepseek_mermaid_20250419_75d807](https://github.com/user-attachments/assets/97fbd0dc-90db-4484-921a-9263e9641033)
+
     
 ## Tech Stack
 
