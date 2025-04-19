@@ -5,6 +5,9 @@
 
 A comprehensive platform for simulating, visualizing, and optimizing smart city infrastructure using digital twin technology and reinforcement learning.
 
+![urban planner](https://github.com/user-attachments/assets/56f708f4-ab0d-4950-9498-eba529e78238)
+
+
 ## Features
 
 ### 🏙️ Digital Twin Visualization
